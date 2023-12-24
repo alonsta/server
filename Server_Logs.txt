@@ -1,0 +1,36 @@
+This is a log file for server.py
+Written by: Alon Stavitsky
+
+started serving 127.0.0.1
+	 127.0.0.1 requested: keys(100,none) // server replied: alonstavitsky~~~~~~~~~~~~~~@gmail.com~sadfsdfgsdfsdfsfdsdfsfsfdsfdsdfsfsdfsfsfsdfsfsdfsfsdfsfsdfsdfs	16:08:23
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	16:07:52
+	 127.0.0.1 requested: keys(100,6) // server replied: kfkgkhkgfghgfhfgh	16:06:16
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	16:02:48
+	 127.0.0.1 requested: keys(10,5) // server replied: 	23:49:03
+	 127.0.0.1 requested: keys(10,5) // server replied: ieifiewifi	23:48:50
+	 127.0.0.1 requested: keys(none,5) // server replied: alonstavitsky	23:48:30
+	 127.0.0.1 requested: keys(100,none) // server replied: oiregijergijoigrjijegrjoijergijoijeorigjoijoeirjgoijoeijrgijoiejrgijoiejrgiojeoirjgoijoijegjgjoijojg	23:48:00
+	 127.0.0.1 requested: keys(none,5) // server replied: dasdsasd	23:46:57
+	 127.0.0.1 requested: keys(5,none) // server replied: 12345	23:46:43
+	 127.0.0.1 requested: keys(none,none) // server replied: 	23:46:31
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:46:22
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:44:27
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:42:25
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:41:25
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:40:35
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:38:54
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:38:20
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:37:37
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:36:39
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:32:51
+	 127.0.0.1 requested: keys(5) // server replied: asdas	23:32:34
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:32:28
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:18:48
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:18:18
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:17:46
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:14:06
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:13:30
+	 127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:11:59
+	 127.0.0.1 requested: record_keys(10) // server replied: unknown request. please try again	23:09:02
+	 127.0.0.1 requested: h? // server replied: name/time/rand/dir(path)/del(path)/copy(source/destination)/exec(path)/shoot/record_keys(secs_to_finish)exit	23:08:43
+	127.0.0.1 requested: connected // server replied: welcome to my server. what would you like to do(h?)	23:08:37
